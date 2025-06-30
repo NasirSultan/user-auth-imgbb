@@ -1,14 +1,25 @@
 {
-  "name": "user-auth-imgbb",
+  "name": "@nasirsultan/user-auth-imgbb",
   "version": "1.0.0",
+  "description": "A Node.js auth package with Imgbb image upload and JWT login",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "auth",
+    "imgbb",
+    "jwt",
+    "mongoose",
+    "express",
+    "node"
+  ],
+  "author": "Nasir Sultan",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "axios": "^1.10.0",
     "bcryptjs": "^3.0.2",
