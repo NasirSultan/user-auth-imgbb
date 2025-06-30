@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS specific
+*.swp
+
+# npm
+package-lock.json
+.npmrc  # (especially important to ignore for CI/CD)
+
+# Logs
+logs
+*.log
+
+# Output builds
+dist/
+build/
