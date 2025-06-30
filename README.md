@@ -53,5 +53,5 @@ This package provides a ready-to-use user authentication system in Node.js. It s
 
 You can access this package on NPM:
 
-**[https://github.com/nasirsultan/user-auth-imgbb]([https://github.com/nasirsultan/user-auth-imgbb](https://www.npmjs.com/package/user-auth-imgbb?activeTab=readme))**
+**[NPM PACKAGE]([https://github.com/nasirsultan/user-auth-imgbb](https://www.npmjs.com/package/user-auth-imgbb?activeTab=readme))**
 
